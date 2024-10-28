@@ -1,0 +1,6 @@
+[Google Drive]
+llama3.1_8b_to_4b_hf.zip
+https://drive.google.com/file/d/12cIIb2sxhQqj9m4nNTr7ZgaOc4IA17sD/view?usp=sharing
+
+qwen2_7b_to_4b_hf.zip
+https://drive.google.com/file/d/1FvD6LKrCg6yMHwPl0d1X4IfLb2_sWsKE/view?usp=sharing
